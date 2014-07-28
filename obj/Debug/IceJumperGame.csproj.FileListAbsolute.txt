@@ -1,0 +1,6 @@
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\bin\Debug\IceJumperGame.exe.config
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\bin\Debug\IceJumperGame.exe
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\bin\Debug\IceJumperGame.pdb
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\obj\Debug\IceJumperGame.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\obj\Debug\IceJumperGame.exe
+C:\Users\Pavel\Desktop\IceJumperGameSolution\IceJumperGame\obj\Debug\IceJumperGame.pdb
